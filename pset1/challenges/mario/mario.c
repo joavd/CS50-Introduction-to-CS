@@ -5,7 +5,7 @@ int main(void)
 {
     int height = 0;
 
-    // Ask for the initial population, until it's bigger or equal than 9
+    // Ask for height of the pyramid
     while (height <= 0 || height >= 9)
     {
         height = get_int("Height:");
