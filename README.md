@@ -23,4 +23,4 @@ This repo contains my solutions done along the CS50's course available [here](ht
 
 * **Readability** challenge: Computes the approximate grade level needed to comprehend some text
 
-* **Substitution** challenge: Implements a substituion cipher to "encrypt" a text
+* **Substitution** challenge: Implements a substitution cipher to "encrypt" a text
