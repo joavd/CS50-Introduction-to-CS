@@ -7,6 +7,8 @@ This repo contains my solutions done along the CS50's course available [here](ht
 
 * [Week 2 - Arrays](#week-2---arrays)
 
+* [Week 3 - Algorithms](#week-3---algorithms)
+
 ### Week 1 - C
 
 * **Hello**: Asks the user for an name and then greets the person
@@ -24,3 +26,7 @@ This repo contains my solutions done along the CS50's course available [here](ht
 * **Readability** challenge: Computes the approximate grade level needed to comprehend some text
 
 * **Substitution** challenge: Implements a substitution cipher to "encrypt" a text
+
+### Week 3 - Algorithms
+
+* **Answers**: Manually analyzes three sorting programs to determine which algorithms they use.
