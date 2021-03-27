@@ -1,0 +1,26 @@
+sort1 uses: Bubble sort
+
+How do you know?: It has the best performance compared to sort3 on sorted list
+
+sort2 uses: Merge sort
+
+How do you know?: It has the best performance by far on the largest files
+
+sort3 uses: Selection sort
+
+How do you know?: It has the best performance compared to sort1 on the reversed list
+
+Sort1
+sorted5k  - 0.010s  | rev5k  - 00.112s  | rand5k  - 00.090s
+sorted10k - 0.029s  | rev10k - 00.491s  | rand10k - 00.433s
+sorted50k - 4.844s  | rev50k - 12.853s  | rand50k - 16.812s
+
+Sort2
+sorted5k  - 0.014s  | rev5k  - 00.013s  | rand5k  - 00.012s
+sorted10k - 0.092s  | rev10k - 00.019s  | rand10k - 00.026s
+sorted50k - 4.941s  | rev50k - 04.836s  | rand50k - 03.417s
+
+Sort3
+sorted5k  - 00.043s | rev5k  - 00.034s  | rand5k  - 00.034s
+sorted10k - 00.259s | rev10k - 00.180s  | rand10k - 00.202s
+sorted50k - 12.939s | rev50k - 10.436s  | rand50k - 11.261s
