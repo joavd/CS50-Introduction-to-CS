@@ -30,3 +30,5 @@ This repo contains my solutions done along the CS50's course available [here](ht
 ### Week 3 - Algorithms
 
 * **Answers**: Manually analyzes three sorting programs to determine which algorithms they use.
+
+* **Plurality** challenge: Simulates a plurality vote election and displays the winner(s)
