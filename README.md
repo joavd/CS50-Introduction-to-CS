@@ -1,13 +1,15 @@
 # Harvard's CS50 Introduction to CS
 This repo contains my solutions done along the CS50's course available [here](https://cs50.harvard.edu/x/2021/).
 
-## Weeks and Exercises Explained
+## Index of weeks
 
 * [Week 1 - C](#week-1---c)
 
 * [Week 2 - Arrays](#week-2---arrays)
 
 * [Week 3 - Algorithms](#week-3---algorithms)
+* 
+* [Week 4 - Memory](#week-4---memory)
 
 ### Week 1 - C
 
