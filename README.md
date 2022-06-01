@@ -32,3 +32,9 @@ This repo contains my solutions done along the CS50's course available [here](ht
 * **Answers**: Manually analyzes three sorting programs to determine which algorithms they use.
 
 * **Plurality** challenge: Simulates a plurality vote election and displays the winner(s)
+
+* **Tideman** challenge: Simulates a Tideman election which checks which person wins when you vote based on a rank
+
+### Week 4 - Memory
+
+* **Volume**: Modifies the volume of an audio file
