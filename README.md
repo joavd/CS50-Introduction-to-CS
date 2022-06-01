@@ -8,7 +8,7 @@ This repo contains my solutions done along the CS50's course available [here](ht
 * [Week 2 - Arrays](#week-2---arrays)
 
 * [Week 3 - Algorithms](#week-3---algorithms)
-* 
+
 * [Week 4 - Memory](#week-4---memory)
 
 ### Week 1 - C
