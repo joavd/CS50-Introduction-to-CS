@@ -40,3 +40,5 @@ This repo contains my solutions done along the CS50's course available [here](ht
 ### Week 4 - Memory
 
 * **Volume**: Modifies the volume of an audio file
+
+* **Filter** challenge: Applies grayscale, reflection, blur or edge detection filters .bmp images
