@@ -42,3 +42,5 @@ This repo contains my solutions done along the CS50's course available [here](ht
 * **Volume**: Modifies the volume of an audio file
 
 * **Filter** challenge: Applies grayscale, reflection, blur or edge detection filters .bmp images
+
+* **Recover** challenge: Recovers lost JPEGs from a forensic image
